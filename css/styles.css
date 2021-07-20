@@ -222,6 +222,13 @@ img {
   color: var(--white);
 }
 
+.order-btn:hover,
+.order-btn:focus {
+  background: #188ce8;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+  border-radius: 4px;
+}
+
 .features {
   display: flex;
   padding-bottom: 47px;
