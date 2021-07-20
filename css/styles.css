@@ -155,7 +155,8 @@ img {
   color: var(--gray);
 }
 
-.header-contact:hover {
+.header-contact:hover,
+.header-contact:focus {
   color: var(--blue);
 }
 
@@ -508,7 +509,8 @@ img {
   color: var(--white);
 }
 
-.footer-address:hover {
+.footer-address:hover,
+.footer-address:focus {
   color: var(--blue);
 }
 
@@ -529,7 +531,8 @@ img {
   color: var(--whitegray);
 }
 
-.footer-mail:hover {
+.footer-mail:hover,
+.footer-mail:focus {
   color: var(--blue);
 }
 
@@ -545,7 +548,8 @@ img {
 
   color: var(--whitegray);
 }
-.footer-contact:hover {
+.footer-contact:hover,
+.footer-contact:focus {
   color: var(--blue);
 }
 
@@ -650,7 +654,8 @@ img {
   color: var(--black);
 }
 
-.portfolio-btn:hover {
+.portfolio-btn:hover,
+.portfolio-btn:focus {
   color: var(--white);
   background: var(--blue);
 }
@@ -698,7 +703,8 @@ img {
   color: var(--gray);
 }
 
-.portfolio-box:hover {
+.portfolio-box:hover,
+.portfolio-box:focus {
   box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.12), 0px 4px 4px rgba(0, 0, 0, 0.06),
     1px 4px 6px rgba(0, 0, 0, 0.16);
   cursor: pointer;
@@ -723,7 +729,8 @@ img {
 
   color: var(--white);
 }
-.footer-address-portfolio:hover {
+.footer-address-portfolio:hover,
+.footer-address-portfolio:focus {
   color: var(--blue);
 }
 
@@ -740,7 +747,8 @@ img {
   color: var(--whitegray);
 }
 
-.footer-mail-portfolio:hover {
+.footer-mail-portfolio:hover,
+.footer-mail-portfolio:focus {
   color: var(--blue);
 }
 
@@ -757,7 +765,8 @@ img {
   color: var(--whitegray);
 }
 
-.footer-contact-portfolio:hover {
+.footer-contact-portfolio:hover,
+.footer-contact-portfolio:focus {
   color: var(--blue);
 }
 
